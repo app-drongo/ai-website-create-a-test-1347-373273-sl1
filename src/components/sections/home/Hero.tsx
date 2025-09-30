@@ -33,7 +33,7 @@ export default function Hero() {
             {/* Badge */}
             <div className="mb-4 inline-flex w-fit items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-3 py-1.5 text-sm font-medium text-primary">
               <span className="inline-block h-2 w-2 rounded-full bg-primary"></span>
-              New: Enterprise AI Platform
+              New: Enterprise AI Platform Test
             </div>
 
             {/* Headline */}
